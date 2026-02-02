@@ -16,7 +16,17 @@ MENU:
 Cambios 18/01/2026
 
 <img width="1355" height="608" alt="image" src="https://github.com/user-attachments/assets/11aa1142-244d-4292-b106-594e1e7863cd" />
-<img width="1353" height="556" alt="image" src="https://github.com/user-attachments/assets/3777a739-5dc2-4629-a271-8918a08586b1" />
+<img width="1358" height="529" alt="image" src="https://github.com/user-attachments/assets/3d246ace-0b64-4679-b3e1-5764843db248" />
+
+Cambios 02/02/2026
+ABOUT:
+<img width="1365" height="330" alt="image" src="https://github.com/user-attachments/assets/7072f29b-f20a-44c8-8d18-7b00c684bbcb" />
+<img width="1352" height="568" alt="image" src="https://github.com/user-attachments/assets/9cf238b8-d478-4783-9b40-db0840c9e3ee" />
+<img width="1350" height="579" alt="image" src="https://github.com/user-attachments/assets/4bc5439e-2ac5-4bbb-8be2-f220581f4930" />
+<img width="1346" height="568" alt="image" src="https://github.com/user-attachments/assets/a4be0343-d3ec-46d5-8b06-6d7861518141" />
+
+
+
 
 
 
