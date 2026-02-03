@@ -21,9 +21,12 @@ Cambios 18/01/2026
 Cambios 02/02/2026
 ABOUT:
 <img width="1365" height="330" alt="image" src="https://github.com/user-attachments/assets/7072f29b-f20a-44c8-8d18-7b00c684bbcb" />
-<img width="1352" height="568" alt="image" src="https://github.com/user-attachments/assets/9cf238b8-d478-4783-9b40-db0840c9e3ee" />
+<img width="1358" height="464" alt="image" src="https://github.com/user-attachments/assets/5820b61d-5679-4ede-a0d0-ad8420d9a241" />
 <img width="1350" height="579" alt="image" src="https://github.com/user-attachments/assets/4bc5439e-2ac5-4bbb-8be2-f220581f4930" />
 <img width="1346" height="568" alt="image" src="https://github.com/user-attachments/assets/a4be0343-d3ec-46d5-8b06-6d7861518141" />
+
+FOOTER:
+<img width="1353" height="306" alt="image" src="https://github.com/user-attachments/assets/586dcbd7-3ee1-46f2-b2ee-88d7f50e7716" />
 
 
 
