@@ -28,6 +28,25 @@ ABOUT:
 FOOTER:
 <img width="1353" height="306" alt="image" src="https://github.com/user-attachments/assets/586dcbd7-3ee1-46f2-b2ee-88d7f50e7716" />
 
+**visualización de pagina por partes**
+20/02/26
+INICIO
+<img width="1366" height="3757" alt="inicio" src="https://github.com/user-attachments/assets/08f4c58a-202b-487b-993c-ed17a2b4b8b0" />
+MENÚ
+
+<img width="1366" height="1892" alt="MENÚ" src="https://github.com/user-attachments/assets/3aa7e0bc-d5e0-4c98-954c-407307a5dce3" />
+
+RESEÑAS 
+<img width="1366" height="1531" alt="reseñas" src="https://github.com/user-attachments/assets/0d90d240-d224-47e1-b1fe-befa014b1b42" />
+
+SOBRE NOSOTROS
+<img width="1366" height="2207" alt="SOBRENOSOTROS" src="https://github.com/user-attachments/assets/dfd5a826-960a-4660-b674-b48567843e1a" />
+
+CONTACTO
+
+<img width="1366" height="1593" alt="CONTACTO" src="https://github.com/user-attachments/assets/7541f2ed-57d5-4719-90af-383695956c42" />
+
+
 
 
 
